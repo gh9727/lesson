@@ -1,1 +1,2 @@
 sdfsdfsdf
+git push -u 원격저장소주소(https~~.git) 로컬브랜치명
