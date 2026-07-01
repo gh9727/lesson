@@ -1,3 +1,6 @@
 sdfsdfsdf
 git push -u 원격저장소주소(https~~.git) 로컬브랜치명
 git remote add 변수명 저장할데이터(원격저장소주소)
+
+git push -u : 원격저장소 주소를 기억하게 하는 옵션(u)
+-> git push 명령어만 입력해도 로컬 → 원격 저장소로 저장가능
