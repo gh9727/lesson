@@ -1,4 +1,4 @@
-sdfsdfsdf 13121
+sdfsdfsdf 13121111111
 git push -u 원격저장소주소(https~~.git) 로컬브랜치명
 git remote add 변수명 저장할데이터(원격저장소주소)
 
